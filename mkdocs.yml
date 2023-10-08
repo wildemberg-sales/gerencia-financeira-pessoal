@@ -1,0 +1,47 @@
+site_name: App de Gerenciamento Financeiro Pessoal
+
+copyright: "Copyright &copy; 2023 Wildemberg Sales"
+
+theme:
+  name: material
+  language: "pt"
+  palette:
+    primary: blue
+    accent: white
+  features:
+    - navigation.tabs
+  font:
+    text: "Montserrat"
+    code: "sans-serif"
+  logo: assets/logo.png
+  favicon: assets/logo.png
+
+nav:
+  - Início: index.md
+
+  - Planejamento:
+    - Metodologia: '#'
+    - Ferramentas: '#'
+
+  - Elicitação de Requisitos:
+    - Perfil de usuário: '#'
+    - Brainstorm: '#'
+    - Pesquisa de Campo (formulário): '#'
+    - Priorização:
+      - Three Level-Scale: '#'
+    - Modelagem de requisitos:
+      - Casos de Uso: '#'
+      - User Story: '#'
+      - Backlog: '#'
+
+  - Prototipagem:
+    - Baixa Fidelidade: '#'
+    - Alta Fidelidade: '#'
+
+  - Arquitetura do Software:
+    - Diagrama de classe: '#'
+    - Diagrama de pacotes: '#'
+    - Representação Arquitetural: '#'
+    - Modelo de Entidade-Relacionamento: '#'
+    - Diagrama Entidade-Relacionamento: '#'
+    - Diagrama de Entidade: '#'
