@@ -6,42 +6,40 @@ theme:
   name: material
   language: "pt"
   palette:
-    primary: blue
+    primary: dark blue
     accent: white
   features:
     - navigation.tabs
   font:
-    text: "Montserrat"
+    text: "Open Sans"
     code: "sans-serif"
-  logo: assets/logo.png
-  favicon: assets/logo.png
+  # logo: assets/logo.png
+  # favicon: assets/logo.png
 
 nav:
   - Início: index.md
 
   - Planejamento:
-    - Metodologia: '#'
-    - Ferramentas: '#'
+    - Metodologia: './Planejamento/metodologia.md'
+    - Ferramentas: './Planejamento/ferramentas.md'
 
   - Elicitação de Requisitos:
-    - Perfil de usuário: '#'
-    - Brainstorm: '#'
-    - Pesquisa de Campo (formulário): '#'
+    - Perfil de usuário: './Elicitacao/perfilDeUsuario.md'
+    - Brainstorm: './Elicitacao/brainstorm.md'
+    - Pesquisa de Campo (formulário): './Elicitacao/pesquisaDeCampo.md'
     - Priorização:
-      - Three Level-Scale: '#'
+      - Three Level-Scale: './Elicitacao/Priorizacao/threeLevelScale.md'
     - Modelagem de requisitos:
-      - Casos de Uso: '#'
-      - User Story: '#'
-      - Backlog: '#'
+      - Casos de Uso: './Elicitacao/Modelagem/casosDeUso.md'
+      - User Story: './Elicitacao/Modelagem/userStory.md'
+      - Backlog: './Elicitacao/Modelagem/backlog.md'
 
   - Prototipagem:
-    - Baixa Fidelidade: '#'
-    - Alta Fidelidade: '#'
+    - Baixa Fidelidade: './Prototipagem/baixaFidelidade.md'
+    - Alta Fidelidade: './Prototipagem/altaFidelidade.md'
 
   - Arquitetura do Software:
-    - Diagrama de classe: '#'
-    - Diagrama de pacotes: '#'
-    - Representação Arquitetural: '#'
-    - Modelo de Entidade-Relacionamento: '#'
-    - Diagrama Entidade-Relacionamento: '#'
-    - Diagrama de Entidade: '#'
+    - Diagrama de classe: './Arquitetura/diagramaClasse.md'
+    - Diagrama de pacotes: './Arquitetura/diagramaPacotes.md'
+    - Representação Arquitetural: './Arquitetura/representacaoArquitetural.md'
+    - Banco de dados: './Arquitetura/bancoDeDados.md'
