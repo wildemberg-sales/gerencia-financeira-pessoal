@@ -7,7 +7,7 @@ theme:
   language: "pt"
   palette:
     primary: dark blue
-    accent: white
+    accent: green
   features:
     - navigation.tabs
   font:
@@ -15,6 +15,7 @@ theme:
     code: "sans-serif"
   # logo: assets/logo.png
   # favicon: assets/logo.png
+
 
 nav:
   - Início: index.md
