@@ -29,7 +29,7 @@ nav:
     - Brainstorm: './Elicitacao/brainstorm.md'
     - Pesquisa de Campo (formulário): './Elicitacao/pesquisaDeCampo.md'
     - Priorização:
-      - Three Level-Scale: './Elicitacao/Priorizacao/threeLevelScale.md'
+      - In or Out: './Elicitacao/Priorizacao/inOrOut.md'
     - Modelagem de requisitos:
       - Casos de Uso: './Elicitacao/Modelagem/casosDeUso.md'
       - User Story: './Elicitacao/Modelagem/userStory.md'

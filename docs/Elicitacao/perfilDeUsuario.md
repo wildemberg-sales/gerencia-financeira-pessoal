@@ -14,8 +14,8 @@ A seguir temos a tabela 1 com as principais definições do nosso perfil de usu�
 
 Na figura 1 podemos ver como as pessoas tem controlado seus gastos nos últimos meses.
 ![Alt text](image.png)
-<figcaption>Figura 1: Análise sobre o controle de finanças</figcaption>
+<figcaption align="center">Figura 1: Análise sobre o controle de finanças</figcaption>
 
 Na figura 2 podesse ver a disponibilidade dos usuários para utilização da aplicação.
 ![Alt text](image-1.png)
-<figcaption>Figura 2: Disponilibilidade para uso da aplicação</figcaption>
+<figcaption align="center">Figura 2: Disponilibilidade para uso da aplicação</figcaption>
